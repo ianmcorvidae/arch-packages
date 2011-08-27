@@ -1,0 +1,13 @@
+# Maintainer: Ian McEwen <ianmcorvidae@ianmcorvidae.net>
+pkgname=ianmcorvidae-audio-output
+pkgver=2011.08.26
+pkgrel=1
+pkgdesc="audio metapackage for ianmcorvidae"
+license=('none')
+arch=('any')
+depends=('qjackctl'
+	 'alsa-tools-ice1712')
+
+build() {
+  return 0 
+}
