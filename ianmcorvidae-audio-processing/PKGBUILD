@@ -1,13 +1,14 @@
 # Maintainer: Ian McEwen <ianmcorvidae@ianmcorvidae.net>
 pkgname=ianmcorvidae-audio-processing
 pkgver=2011.10.05
-pkgrel=1
+pkgrel=2
 pkgdesc="audio metapackage for ianmcorvidae"
 license=('none')
 arch=('any')
 depends=('picard'
 	 'mp3gain-foo'
 	 'vorbisgain'
+	 'rubyripper-git'
 	 'cd-discid'
 	 'flac'
 	 'vorbis-tools'
