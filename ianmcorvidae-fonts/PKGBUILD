@@ -1,13 +1,12 @@
 # Maintainer: Ian McEwen <ianmcorvidae@ianmcorvidae.net>
 pkgname=ianmcorvidae-fonts
-pkgver=2011.08.26
-pkgrel=4
+pkgver=2012.01.27
+pkgrel=1
 pkgdesc="font metapackage for ianmcorvidae"
 license=('none')
 arch=('any')
 depends=('ttf-eurof' 
          'ttf-facet' 
-	 'ttf-sil-ezra' 
 	 'ttf-larabie-uncommon' 
 	 'ttf-larabie-decor'
 	 'ttf-larabie-standard'
